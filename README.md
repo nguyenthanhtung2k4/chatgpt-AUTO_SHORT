@@ -1,3 +1,8 @@
+LINK  VIDEO:  https://www.youtube.com/watch?v=ki3s9-zjbbc
+
+
+
+
 # Auto-generate videos using ChatGPT
 
 Ví dụ này cung cấp một ý tưởng tạo một `Service Api` sử dụng ChatGPT để tự động tạo video cho dân tiktok và youtube.
